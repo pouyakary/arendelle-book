@@ -1,21 +1,19 @@
 # Playing with the Basic Calculator
 So as we created a calculator back to chapter 11, we know how to to display information using the title. However we also know about **Stored Spaces** and **Functions**. We can now use them to add more awesome features to our tiny calculator. First, we can save our result in a file using Stored Spaces:
 
-<!-- CLIFF HIGHLIGHTER 0.02 DEV GENERATED CODE BLOCK--><br>
+<br><!-- [+] Marker.js 1.14 : Code Block -->
 
-<pre style="font-family: Monospace;">
-<span style="color:#D60073">(</span>&nbsp;space&nbsp;<span style="color:#D60073">,</span><br><br>&nbsp;&nbsp;&nbsp;<span style="color:#A0A0A0">//&nbsp;something&nbsp;here</span><br><br><span style="color:#D60073">)</span>&nbsp;<span style="color:#D60073">(</span>&nbsp;<span style="color:#4E00FC">$result</span>&nbsp;<span style="color:#D60073">,</span>&nbsp;<span style="color:#4E00FC">@space</span>&nbsp;<span style="color:#D60073">)</span><br><span style="color:#BD00AD">'ANS: \(@space)'</span></pre>
+<pre><span style="color: #D60073;">(</span><span style="color: #4E00FC;"> space </span><span style="color: #D60073;">,</span><br><br>   <span style="color: #A0A0A0;">// something here</span><br><br><span style="color: #D60073;">)</span> <span style="color: #D60073;">(</span> <span style="color: #4E00FC;">$result </span><span style="color: #D60073;">,</span> <span style="color: #4E00FC;">@space </span><span style="color: #D60073;">)</span><br><br><span style="color: #BD00AD;">'ANS: </span>| <span style="color: #4E00FC;">@space </span>|<span style="color: #BD00AD;">'</span></pre>
 
-<!-- CLIFF HIGHLIGHTER 0.02 DEV GENERATED CODE BLOCK--><br>
+<!-- [-] Marker.js 1.14 : Code Block --><br>
 
 Let’s create some functions for our calculator. Do you remember the `!pow(number,power)` function we wrote together? If you put the `pow.arendelle` file into the folder where your `calc.arendelle` file is you can then use it in our calc:
 
-<!-- CLIFF HIGHLIGHTER 0.02 DEV GENERATED CODE BLOCK--><br>
+<br><!-- [+] Marker.js 1.14 : Code Block -->
 
-<pre style="font-family: Monospace;">
-<span style="color:#D60073">(</span>&nbsp;space&nbsp;<span style="color:#D60073">,</span><br><br>&nbsp;&nbsp;&nbsp;<span style="color:#D60073">!pow</span>&nbsp;<span style="color:#D60073">(</span>&nbsp;2&nbsp;<span style="color:#D60073">,</span>&nbsp;7&nbsp;<span style="color:#D60073">)</span><br><br><span style="color:#D60073">)</span>&nbsp;<span style="color:#D60073">(</span>&nbsp;<span style="color:#4E00FC">$result</span>&nbsp;<span style="color:#D60073">,</span>&nbsp;<span style="color:#4E00FC">@space</span>&nbsp;<span style="color:#D60073">)</span><br><span style="color:#BD00AD">'ANS: \(@space)'</span></pre>
+<pre><span style="color: #D60073;">(</span><span style="color: #4E00FC;"> space </span><span style="color: #D60073;">,</span><br><br>   <span style="color: #4E00FC;">!pow </span><span style="color: #D60073;">(</span> <span style="color: #6200A8;">2</span> <span style="color: #D60073;">,</span> <span style="color: #6200A8;">7</span> <span style="color: #D60073;">)</span><br><br><span style="color: #D60073;">)</span> <span style="color: #D60073;">(</span> <span style="color: #4E00FC;">$result </span><span style="color: #D60073;">,</span> <span style="color: #4E00FC;">@space </span><span style="color: #D60073;">)</span><br><br><span style="color: #BD00AD;">'ANS: </span>| <span style="color: #4E00FC;">@space </span>|<span style="color: #BD00AD;">'</span></pre>
 
-<!-- CLIFF HIGHLIGHTER 0.02 DEV GENERATED CODE BLOCK--><br>
+<!-- [-] Marker.js 1.14 : Code Block --><br>
 
 And you will see the **ANS: 128** in the title! Something I want to show you are recursive functions:
 

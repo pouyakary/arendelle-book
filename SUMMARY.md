@@ -4,6 +4,7 @@
 * [First Spacings](what_is_arendelle/README.md)
 * [Getting Started](getting_started/README.md)
    * [Arendelle Android](getting_started/arendelle_android_app.md)
+   * [Arendelle iOS](getting_started/arendelle_ios_app.md)
 * [Hello, World!](hello,_world/README.md)
 * [Basics](basics/README.md)
 * [Loops](loop/README.md)
