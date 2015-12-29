@@ -250,7 +250,7 @@ You can do so much magic with spaces! Look at this example:
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br>
 
-As you observed this blueprints are more advanced then what you have seen till now. Its like you get super hero powers when you use spaces!<br>
+As you observed this blueprints are more advanced than what you have seen till now. Its like you get super hero powers when you use spaces!<br>
 
 So now its time for you to practice!<br>
 
