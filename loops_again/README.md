@@ -12,7 +12,7 @@ The idea of this loops are really simple. Look at this rule for the conditional 
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br>
 
-What is that and what does it? Simple! In the simple loop you enter how many times you want it to do the job and it does the job for you like when you type:
+What is that and what it does? Simple! In the simple loop you enter how many times you want it to do the job and it does the job for you like when you type:
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br>
 
