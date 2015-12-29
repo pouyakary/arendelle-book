@@ -1,5 +1,5 @@
 # Loops again!
-As you have seen and as the way I said, Loops are the most important part of the Arendelle language. When something is such important, it has to be powerful too. So the one thing that is true about loops is that they are designed to be smart and detect what you want. In order to create this goal we have created something very new called conditional loops<br>
+As you have seen and as the way I said, Loops are the most important part of the Arendelle language. When something is this important, it has to be powerful too. So the one thing that is true about loops is that they are designed to be smart and detect what you want. In order to create this goal we have created something very new called conditional loops<br>
 
 In other programming languages loops divides into two major types: the "For" loop and the "While" loop. However Arendelle had only one loop which is called “Loop”! Arendelle itself detects what you wrote and operates the way you want. You really don’t have to worry about learning a new grammar!<br><br>
 
