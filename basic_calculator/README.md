@@ -43,7 +43,7 @@ But something very cool is what you’ll get is actually something like this:
 <img src="2.png" style="width:35pc;"></img>
 </center><br>
 
-So what we expected to be `the value of space is = | @space |` turned out to be `the value of space is = 10`. Arendelle reads the title’s text and then replaces the spaces with their numbers. Furthermore, this feature also works with sources, functions and stored spaces (we talk about stored spaces and functions soon) and actually any mathematical expression like `'| 2*3+1 |'` which will give you the title `7`<br><br>
+So what we expected to be `the value of space is = | @space |` turned out to be `the value of space is = 10`. Arendelle reads the title’s text and then replaces the spaces with their numbers. Furthermore, this feature also works with sources, functions and stored spaces (we'll talk about stored spaces and functions soon) and actually any mathematical expression like `'| 2*3+1 |'` which will give you the title `7`<br><br>
 
 <hr>
 #### Exercise
