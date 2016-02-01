@@ -64,7 +64,7 @@ The loop itself is a code! The rule says you can write codes in the loop so you 
 <span style="color:#D60073">[</span>&nbsp;number&nbsp;<span style="color:#D60073">,</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#D60073">[</span>&nbsp;number&nbsp;<span style="color:#D60073">,</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#D60073">[</span>&nbsp;number&nbsp;<span style="color:#D60073">,</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#D60073">[</span>&nbsp;number&nbsp;<span style="color:#D60073">,</span>&nbsp;code&nbsp;<span style="color:#D60073">]</span>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#D60073">]</span>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#D60073">]</span>&nbsp;<br>&nbsp;&nbsp;&nbsp;<br><span style="color:#D60073">]</span>&nbsp;</pre>
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br>
-I have taught Arendelle and programming in general to many people and all of them just like you asked "Why on Earth do I need loops inside loops?". Well, we will write many loops inside loops! Pay attention to this one (Answer for the last exercise 'writing a V'):
+I have taught Arendelle and programming in general to many people. All of them just like you asked "Why on Earth do I need loops inside loops?". Well, we will write many loops inside loops! Pay attention to this one (Answer for the last exercise *writing a V*):
 
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br>
