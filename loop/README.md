@@ -88,7 +88,7 @@ It's a quite awesome code. It's fun and does the job but as you see there is a r
 
 We wrote a good code with loops in a loop to illustrate W. That code was a beauty but from now on please write your codes in a file. You have learned how to run a file in Arendelle but if you don't know how, check out the first chapters. Or if you're using Arendelle Studio you don't need to because you can write multi line codes<br>
 
-When we want to use grammars inside grammars we write them like this: `[ 2, [ 7 , prd ] [ 7 , pru ] ] p` Please try hard to stick to this style. Each language and each notation system has a style. Using a style makes your code natural and friendly to other developers while also making it easier for you to read and fremember what did you when you're trying desperately 6 months after you wrote your code!<br>
+When we want to use grammars inside grammars we write them like this: `[ 2, [ 7 , prd ] [ 7 , pru ] ] p` Please try hard to stick to this style. Each language and each notation system has a style. Using a style makes your code natural and friendly to other developers. While it also makes it easier for you to read and remember. Someday you'll be reading your code after months and then you'll see why you need comments.<br>
 
 I believe we're done with basics of loops! Now the fun part is on: Playing a bit with the knowledge we have now!
 
