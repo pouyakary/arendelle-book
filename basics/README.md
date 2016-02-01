@@ -1,7 +1,7 @@
 # Basics
 
 ## Grid
-Computer screens are made of a sequence of squares called pixels just like the squares you see in those old fellow retro games or the blocks in Minecraft.
+Computer screens are made of a sequence of squares called pixels. Just like the squares you see in those old fellow retro games or those blocks in Minecraft.
 
 Computer graphics are magnificent: From squares to circles and curves... Everything in computer graphics is made of these tiny little friends.
 
