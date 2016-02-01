@@ -7,7 +7,7 @@ Computer graphics are magnificent: From squares to circles and curves... Everyth
 
 Arendelle is also part of the team with a huge difference. Arendelle is made of pixels with dynamic size. It means you can change the size of these pixels. By default the size of Arendelle pixels are bigger than a normal pixel.
 
-In Arendelle we call these squares 'dots' and the screen 'grid'.
+In Arendelle we call these squares **dots** and the screen **grid**.
 
 <br /><br />
 ## The most basic commands
@@ -63,11 +63,12 @@ p rr p dd p ll p
 <hr />
 
 #### Exercise
-For developers there are so many exercises one of the very first they should start with is "reading" and "writing" codes. We start with reading codes and don't you worry they will never be hard! Read the following code and draw it on a grid screen:
+For developers there are so many exercises in which one of the very first ones is "reading" and "writing" codes. We start with reading codes and don't you worry they will never be hard! Read the following code and draw it on a grid screen:
 
 ```
 rpr dp dp lp lp
 ```
+
 **NOTE** : The shape you have created is called [Glider](http://en.wikipedia.org/wiki/Glider_%28Conway%27s_Life%29) from the [Conway's Game Of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The first proved to be awesome cellular automaton which is accepted by most hackers to be their logo.
 
 <hr />
@@ -78,7 +79,7 @@ Arendelle comes with four colors so you can fill each dot with a different color
 
 ![](ZigForArendelleMainPage.png)
 
-Our default color is the full opacity one, to move to the next color we use `n` command. And please notice that if you're using the last color (the 4th opacity) by using the `n` command you'll move to the first color (the 1st opacity). So let’s have a look at a few examples:
+Our default color is the full opacity one, to move to the next color we use `n` command. And please notice that if you're using the last color (the 4th opacity) by using the `n` command you'll move to the first color (the 1st opacity). Let’s have a look at a few examples:
 
 <hr>
 
