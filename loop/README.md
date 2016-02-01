@@ -6,7 +6,7 @@ Programming is based on four foundations: Variables, Grammars, Commands and Func
 
 The commands you know are cool but you can only create static shapes with them. There is this very big difference between programming and creating static shapes. If we are doing so we had to call ourselves illustrator or something but why we say we're learning to become a programmer? I will tell you this secret in the next chapter for now I only tell you that commands with no grammars are no programs! Grammars are what makes our codes smart, efficient and soon enough you'll see they makes programming 'possible'!<br>
 
-Just like in movies, at first each superhero is just an ordinary someone then after something so extraordinary they transform into something amazing! Today I have magnificent news for you! You're about to become someone very interesting! The prophecy states that you're the one! The most talented, most special, most extraordinary 'Master' of Arendelle! And how I knew it? This chapter will start your transformation!
+Just like in movies: at first each superhero is just an ordinary someone. Then after something so extraordinary they transform into something amazing! Today I have magnificent news for you! You're about to become someone very interesting! The prophecy states that you're the one! The most talented, most special, most extraordinary **Master of Arendelle!** And how I knew it? Believe me I'm right! This chapter will start your transformation!
 
 <br><br>
 ## Simple Loops
