@@ -18,7 +18,7 @@ What is a loop? Well lets begin with something else... Imagine you're going to w
 <img src="rrprrprrprrprrprrprrp.png" style="box-shadow: 0px 0px 10px #888888; width:99%;"></img>
 </center><br>
 
-You may end up with this code: `rrp rrp rrp rrp rrp rrp rrp`. And you are all right! Now imagine if we wanted `200` of this dots! then we had to write `rrp` for `200` times! But programming should not be like punishments in school and so there are Loops. They are grammars that you write to repeat a code as much as you want! Isn't this idea brilliant? I know right? However! If you let me I'll talk hours about my love for loops so let's finally meet this loop, Loops are like this: `[ number , code ] `. You write the loops with opening it with a `[` and then you write the number of how much repeat you want. Then you write a `,` to start writing the repeating code. Finally, you finish the loop via one `]`. You have to do this for any other rules. Loops are codes too, so you can use them just like other codes between them like ...command command loop command command... at any place like `prp [10, d] p`.<br>
+You may end up with this code: `rrp rrp rrp rrp rrp rrp rrp`. And you are all right! Now imagine if we wanted `200` of this dots! then we had to write `rrp` for `200` times! But programming should not be like punishments in school and so there are Loops. They are grammars that you write to repeat a code as much as you want! Isn't this idea brilliant? I know right? However! If you let me I'll talk hours about my love for loops so let's finally meet this loop, Loops are like this: `[ number , code ] `. You write the loops with opening it with a `[` and then you write the number of how much repeat you want. Then you write a `,` to start writing the repeating code. Finally, you finish the loop via one `]`. You have to do this for any other rules. Loops are codes too. You can use them just like other codes between them. Look at `... command command loop command command...` at any place like `prp [10, d] p`.<br>
 
 With the things we have learned about loops we can rewrite our previews code much more efficient like this: `[ 7 , rr p ]`.<br>
 
@@ -55,7 +55,7 @@ There are automobiles designed to move automobiles, trains for moving trains and
 
 <!-- CLIFF HIGHLIGHTER 0.01 DEV GENERATED CODE BLOCK--><br><br>
 
-The loop itself is a code! The rule says you can write codes in the loop so you can use loops in loops in loops in...! Just like the Inception movie where at last minutes Cobb and Ariadne goes to a dream inside a dream inside a dream inside a dream to find Fischer. You can do this with loops just like that! Look at this code:
+The loop itself is a code! The rule says you can write codes in the loop so you can use loops in loops in loops in...! Just like the Inception movie that Cobb and Ariadne goes to a dream inside a dream inside a dream inside a dream to find Fischer. You can do this with loops just like that! Look at this code:
 
 
 
